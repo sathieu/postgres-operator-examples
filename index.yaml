@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pgo:
+  - apiVersion: v3
+    appVersion: 5.0.2
+    created: "2021-09-24T08:55:36.919662431Z"
+    description: A Helm chart for Kubernetes
+    digest: bd9f4832d43a07c470b7022d12c18321c93ffa9a2c1bc2e194cc73b8e56832e9
+    name: pgo
+    type: application
+    urls:
+    - https://github.com/sathieu/postgres-operator-examples/releases/download/pgo-0.2.0/pgo-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-09-24T08:55:36.919670731Z"
